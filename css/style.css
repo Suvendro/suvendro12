@@ -465,13 +465,13 @@ padding: 18px;
 }
 .footer-part h4{
 	color: #f6ebeb;
-	text-align: center;
+	padding: 0 45px;
 	text-transform: uppercase;
 	font-size: 20px;
 	font-weight: 800;
 }
 .footer-part ul{
-	margin: 45px;
+	    padding: 0 45px;
 padding: 7px;
 }
 .footer-part ul li{
